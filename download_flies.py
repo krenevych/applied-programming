@@ -35,7 +35,7 @@ def get_html(url):
 
 
 rootSite = 'http://www.matfiz.univ.kiev.ua/pages/'
-rootPath = "D:\\Repo\\informatics\\"
+rootPath = "D:\\Repo\\applied-programming\\"
 
 dirs = {
     "49": "Тема 1. Регулярні вирази",
